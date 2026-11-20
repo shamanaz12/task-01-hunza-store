@@ -1,0 +1,7 @@
+{
+  "outputDirectory": "public",
+  "rewrites": [{ "source": "/admin", "destination": "/admin.html" }],
+  "headers": [
+    { "source": "/images/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=86400" }] }
+  ]
+}

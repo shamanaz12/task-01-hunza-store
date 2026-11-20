@@ -1,0 +1,20 @@
+module.exports = [
+  { id: 1, name: 'Dried Hunza Apricots', category: 'apricots', price: 1200, rating: 5,
+    image: 'images/apricot.jpg',
+    description: 'Golden dried apricots, sun dried, sweet, no sugar added.' },
+  { id: 2, name: 'Walnut Kernels', category: 'walnuts', price: 1500, rating: 5,
+    image: 'images/walnut.jpg',
+    description: 'Fresh walnut kernels from Hunza, best for brain.' },
+  { id: 3, name: 'Wild Honey', category: 'honey', price: 2200, rating: 5,
+    image: 'images/honey.jpg',
+    description: '100% Pure Wild Honey, no mixing, original.' },
+  { id: 4, name: 'Mulberry Dry Fruit', category: 'apricots', price: 900, rating: 4,
+    image: 'images/mulberry.jpg',
+    description: 'White dried mulberry, sweet and healthy.' },
+  { id: 5, name: 'Almond Oil 100ml', category: 'oils', price: 1800, rating: 5,
+    image: 'images/almond-oil.jpg',
+    description: '100% Pure Cold Pressed Almond Oil for hair and skin.' },
+  { id: 6, name: 'Apricot Kernel Oil 100ml', category: 'oils', price: 1600, rating: 4,
+    image: 'images/apricot-oil.jpg',
+    description: 'Pure Apricot Kernel Oil from Hunza.' }
+];
